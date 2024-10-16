@@ -1,0 +1,64 @@
+.profile{
+    height:30rem;
+    display: flex;
+    justify-content: start;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 100rem;
+
+}
+
+.Content-main-container{
+    display: flex;
+}
+
+.skills{
+    margin-top: 2rem;
+}
+
+.skill-list{
+    list-style-type: none;
+    display: flex;
+    margin-left: 5rem;
+    justify-content: center;
+    
+}
+
+.s1{
+    background-image: linear-gradient(to left, #2E3192,#1BFFFF);    
+    width: fit-content;
+    padding: 10px;
+    color: black;
+    font-weight: 900;
+    margin: 10px;
+    text-decoration: none;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 20px;
+    border-style: solid;
+   
+}
+
+.role{
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: -3px;
+}
+
+.resume{
+    margin-top: 3rem;
+}
+
+.resumebutton{
+    background-image: linear-gradient(to left, #2E3192,#1BFFFF);
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+    font-size:20px;
+}
+
+.resumebutton a {
+    text-decoration: none;
+    color: black;
+}

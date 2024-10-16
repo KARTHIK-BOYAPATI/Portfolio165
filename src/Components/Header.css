@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.logo {
+    height:50px;
+    width:80px;
+    display :flex;
+    justify-content: start;
+    margin-left: 10px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.contact a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: black;
+    
+}
+
+.name{
+    font-style: italic;
+}
+
+
